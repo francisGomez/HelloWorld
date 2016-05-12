@@ -1,1 +1,1 @@
-Pruebas de integración continua con docker.
+Pruebas de integración continua con *docker*.
